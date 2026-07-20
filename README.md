@@ -56,4 +56,5 @@ ORDER BY No_of_orders DESC;
 - SQL
 
 # What this project shows 
-- SQL fundamentals, querying data, filtering and grouping
+- SQL fundamentals, querying data, filtering and grouping.
+- Proving ability to bridge the gap between massive datasets and specific answers through pure relational logic.
